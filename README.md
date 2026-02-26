@@ -4,24 +4,23 @@ An autonomous 4WD pipeline inspection robot designed for 6-inch sewage pipelines
 This robot is built for pipeline inspection, crack detection, and minor crack repair in confined sewage pipelines.
 
 It uses:
-🎥 Raspberry Pi Camera for real-time video feed
-🧠 OpenCV for crack detection
-💉 Robotic arm with syringe injector for crack healing
-💡 High-intensity LEDs for low-light environments
-🛞 4WD N20 motor drive system for stable movement
+🎥-   Raspberry Pi Camera for real-time video feed
+🧠-   OpenCV for crack detection
+💉-   Robotic arm with syringe injector for crack healing
+💡-   High-intensity LEDs for low-light environments
+🛞-   4WD N20 motor drive system for stable movement
 The system is designed with a fully enclosed electronics compartment and a removable top cover for maintenance.
 
 🛠 Hardware Components
-
-🍓 Raspberry Pi Zero 2 W
-📷 Raspberry Pi Camera Module
-⚙️ 4 × N20 DC Motors (5cm wheels)
-🔌 L298N Motor Driver
-🔋 3 × 18650 Li-ion Batteries
-💡 4 × Front LEDs
-🤖 SG90 Servo Motors (for robotic arm)
-💉 Syringe-based crack injection system
-🧱 Custom 3D printed chassis (fits 6-inch pipeline)
+🍓-   Raspberry Pi Zero 2 W
+📷-   Raspberry Pi Camera Module
+⚙️-   4 × N20 DC Motors (5cm wheels)
+🔌-   L298N Motor Driver
+🔋-   3 × 18650 Li-ion Batteries
+💡-   4 × Front LEDs
+🤖-   SG90 Servo Motors (for robotic arm)
+💉-   Syringe-based crack injection system
+🧱-   Custom 3D printed chassis (fits 6-inch pipeline)
 
 🧠 Software Stack
 -  Python 3
